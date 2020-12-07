@@ -1,0 +1,7 @@
+vn\edu\iuh\QLTT\test\Test.class
+vn\edu\iuh\QLTT\entities\TinTuc.class
+vn\edu\iuh\QLTT\dao\DanhMucDao.class
+vn\edu\iuh\QLTT\dao\TinTucPersistence.class
+vn\edu\iuh\QLTT\dao\TinTucDao.class
+vn\edu\iuh\QLTT\controller\DanhSachTinTucServlet.class
+vn\edu\iuh\QLTT\entities\DanhMuc.class
